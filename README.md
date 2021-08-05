@@ -17,11 +17,11 @@
 
 ### 論文情報・リンク
 - [著者，"タイトル，" ジャーナル名，voluem，no.，ページ，年](論文リンク)
-- Google Scholar 引用数:
+- Google Scholar 被引用数:
 - 論文誌名：
-  -  Cite Score:6.1　
-  -  SJR:1.882
-  -  SNIP:1.743
+  -  Cite Score:
+  -  SJR:
+  -  SNIP:
 - 国際会議:
 
 ### 画像や表

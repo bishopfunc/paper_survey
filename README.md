@@ -19,9 +19,9 @@
 - [著者，"タイトル，" ジャーナル名，voluem，no.，ページ，年](論文リンク)
 - Google Scholar 被引用数:
 - 論文誌名：
-  -  Cite Score:
-  -  SJR:
-  -  SNIP:
+  -  Cite Score　2020:
+  -  SJR 2020:
+  -  SNIP 2020:
 - 国際会議:
 
 ### 画像や表

@@ -6,7 +6,7 @@
 ## Template
 ### Title:  "論文タイトル"　　
 ### Date:   YYYY-MM-DD　　
-
+### Summary
 1. どんなもの？（Abstract,Conclusion）
 2. 先行研究と比べてどこがすごいの？（先行研究,どんな問題を解決した）
 3. 技術や手法の"キモ"はどこにある？(新規点,どう解決した)
